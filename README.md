@@ -1,6 +1,6 @@
 # CSE3013-waterfall
-##서강대학교 2022-2 컴퓨터공학설계및실험I<br/>
-##9, 10주차 waterfall<br/>
+## 서강대학교 2022-2 컴퓨터공학설계및실험I<br/>
+## 9, 10주차 waterfall<br/>
 Visual Studio 2017, Openframeworks<br/>
 
 ### l 키를 눌러 data 폴더에 있는 input.txt 파일을 읽는다.<br/>
