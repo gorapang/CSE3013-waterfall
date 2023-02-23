@@ -4,7 +4,7 @@
 Visual Studio 2017, Openframeworks<br/>
 
 ### l 키를 눌러 data 폴더에 있는 input.txt 파일을 읽는다.<br/>
-![1lkey](https://user-images.githubusercontent.com/107031994/220850811-95ac1da6-5068-4209-a5e5-233cd92f9429.png)<br/><br/>
+![1lkey](https://user-images.githubusercontent.com/107031994/220850811-95ac1da6-5068-4209-a5e5-233cd92f9429.png){: width="50%" height="50%"}<br/><br/>
 
 ### d 키를 눌러 input.txt 파일의 데이터로 선분과 점을 그린다.<br/>
 ![2dkey-1](https://user-images.githubusercontent.com/107031994/220850842-95ebf612-32b4-4a28-bb88-472534d2134f.png)<br/><br/>
